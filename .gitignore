@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+/JBakePluginApi/target/
+/JBakePluginService/target/
+/SiteMapJBakePlugin/target/
